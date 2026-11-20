@@ -1,0 +1,17 @@
+{
+  "short_name": "ShopPhiladelphie",
+  "name": "Shop Philadelphie - Vendeur Hors-Ligne",
+  "description": "Application vendeur hors-ligne pour la gestion des stocks, ventes et clôtures journalières",
+  "start_url": "./",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1D4ED8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x64 32x32 24x24 16x16"
+    }
+  ]
+}
